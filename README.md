@@ -21,6 +21,7 @@
 <a href="https://twitter.com/VictorMOA2508" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/manuel.ortiz04/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://www.facebook.com/manuel.ortizalvarez.3" target="blank"><img align="center" src="https://i.pinimg.com/originals/ce/d6/6e/ced66ecfc53814d71f8774789b55cc76.png" alt="facebook" height="50" width="50" /></a>
+<a href="https://victormanuel-portafolio.netlify.app/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2343/2343734.png" alt="linkedin" height="50" width="50" /></a>
 </div>
 
 <!--tech stack icons-->
